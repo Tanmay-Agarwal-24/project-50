@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(233, 6, 6);
+
+} 
+*{
+border:solid ;
+}
+
+
+.header{
+background-color: chartreuse;
+display:flex;
+justify-content:space-between;
+
+
+}
+p{
+    display:flex;
+    background-color:rgb(208, 255, 0);
+    color:mediumblue;
+    justify-content:center 
+}
+.footer{
+    background-color:rgb(100, 6, 6);
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+    
+
+}
